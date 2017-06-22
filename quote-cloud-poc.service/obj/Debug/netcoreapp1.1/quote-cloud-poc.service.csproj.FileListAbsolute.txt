@@ -1,0 +1,7 @@
+C:\Projects\dotnet-core-poc\quote-cloud-poc.service\bin\Debug\netcoreapp1.1\quote-cloud-poc.service.deps.json
+C:\Projects\dotnet-core-poc\quote-cloud-poc.service\bin\Debug\netcoreapp1.1\quote-cloud-poc.service.dll
+C:\Projects\dotnet-core-poc\quote-cloud-poc.service\obj\Debug\netcoreapp1.1\quote-cloud-poc.service.AssemblyInfo.cs
+C:\Projects\dotnet-core-poc\quote-cloud-poc.service\bin\Debug\netcoreapp1.1\quote-cloud-poc.service.pdb
+C:\Projects\dotnet-core-poc\quote-cloud-poc.service\obj\Debug\netcoreapp1.1\quote-cloud-poc.service.csprojResolveAssemblyReference.cache
+C:\Projects\dotnet-core-poc\quote-cloud-poc.service\obj\Debug\netcoreapp1.1\quote-cloud-poc.service.dll
+C:\Projects\dotnet-core-poc\quote-cloud-poc.service\obj\Debug\netcoreapp1.1\quote-cloud-poc.service.pdb

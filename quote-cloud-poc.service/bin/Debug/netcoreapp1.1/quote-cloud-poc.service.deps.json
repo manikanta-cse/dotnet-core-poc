@@ -1,0 +1,66 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "00307a41582b0ae9447cccf5fc8e63975accafb6"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "quote-cloud-poc.service/1.0.0": {
+        "dependencies": {
+          "StructureMap.Microsoft.DependencyInjection": "1.3.0"
+        },
+        "runtime": {
+          "quote-cloud-poc.service.dll": {}
+        }
+      },
+      "microsoft.extensions.dependencyinjection.abstractions/1.1.0": {
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "structuremap/4.4.2": {
+        "runtime": {
+          "lib/netstandard1.5/StructureMap.dll": {}
+        }
+      },
+      "structuremap.microsoft.dependencyinjection/1.3.0": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "1.1.0",
+          "StructureMap": "4.4.2"
+        },
+        "runtime": {
+          "lib/netstandard1.3/StructureMap.Microsoft.DependencyInjection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "quote-cloud-poc.service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "microsoft.extensions.dependencyinjection.abstractions/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2luhjVaWZd8Wmr2KUJcLNAN+iZgezTyfamLG6Lo5FVYY1LYaS7UFOmNtApHGVIytWWtuXSk4ea0t2Vx0HgF5fg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/1.1.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.1.1.0.nupkg.sha512"
+    },
+    "structuremap/4.4.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cBmIv/Kg/zCp2xemG4Qk5s7uHgiVkpPnTaBb5I4Ofezkvudr0VF+LqOdnnPHPEfSviakgIZpZrdAeHhoNQn3CA==",
+      "path": "structuremap/4.4.2",
+      "hashPath": "structuremap.4.4.2.nupkg.sha512"
+    },
+    "structuremap.microsoft.dependencyinjection/1.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-nmFobT02pbi2UJaJlSYgOXNfaCjCzneokYSlZKXf5HDdDoLfEL74FhKHeFuDTF/Q0s5fnt6PMa5YB0zBqPrLyQ==",
+      "path": "structuremap.microsoft.dependencyinjection/1.3.0",
+      "hashPath": "structuremap.microsoft.dependencyinjection.1.3.0.nupkg.sha512"
+    }
+  }
+}

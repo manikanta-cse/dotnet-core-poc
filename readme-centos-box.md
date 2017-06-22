@@ -1,0 +1,22 @@
+Server Details:
+- Description: .net core poc box
+- Business Unit: fo
+- Product Line: edgequote
+- Server Name: c04dfoequo114.dslab.ad.adp.com
+- Primary IP Address: 100.82.20.97
+- Site: LAS
+- Size: 1x1
+- CPU: 1
+- Memory: 1
+- Network: green
+- Environment: dev
+- Operating System: CentOS 7.3
+- System Type: os_only
+- Puppet Tenant Branch: develop
+- Puppet Collection: None
+- Backup: None
+- Storage:
+    - os_disk
+        - Size: 20
+        - Mount: /
+        - Type: LASPDSAVC06-CLUSTER03-CONGO-NONPROD
